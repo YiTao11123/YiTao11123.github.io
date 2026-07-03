@@ -4,13 +4,11 @@ This folder contains a static three-page academic website for GitHub Pages.
 
 ## Key Files
 
-- `index.html`: profile, education, publications, and manuscripts.
+- `index.html`: profile, research interests, research strengths, education, publications, and manuscripts.
 - `cv.html`: skills, professional experience, honors, and awards.
 - `research.html`: research experience.
 - `assets/css/styles.css`: visual style.
 - `assets/img/profile.jpg`: profile photo.
-- `assets/files/yi-tao-cv.pdf`: CV PDF.
-- `assets/files/yi-tao-cv.docx`: CV Word document.
 - `assets/files/*.pdf`: publication and manuscript PDFs.
 
 ## Updating The Website
@@ -18,7 +16,6 @@ This folder contains a static three-page academic website for GitHub Pages.
 For the easiest maintenance, keep stable file names:
 
 - Replace `assets/img/profile.jpg` when updating the headshot.
-- Replace `assets/files/yi-tao-cv.pdf` and `assets/files/yi-tao-cv.docx` when updating the CV.
 - Add new publication PDFs to `assets/files/` with short English file names.
 - Add a new publication item in `index.html` and link to the new PDF.
 - Keep the top navigation links in all three pages consistent when adding new pages.
