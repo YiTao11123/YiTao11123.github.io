@@ -4,7 +4,7 @@ This folder contains a static three-page academic website for GitHub Pages.
 
 ## Key Files
 
-- `index.html`: profile, education, publications, and manuscripts.
+- `index.html`: profile, research interests, research strengths, education, publications, and manuscripts.
 - `cv.html`: skills, professional experience, honors, and awards.
 - `research.html`: research experience.
 - `assets/css/styles.css`: visual style.
