@@ -409,6 +409,10 @@ h1 {
   background: #f8fafc;
 }
 
+.research-item-top-figure .research-figure {
+  margin-top: 0;
+}
+
 .research-figure-stack {
   display: grid;
   gap: 14px;
