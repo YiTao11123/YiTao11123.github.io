@@ -94,6 +94,27 @@ a:hover {
   color: var(--blue);
 }
 
+.site-nav a.language-switch {
+  border-color: var(--blue);
+  background: var(--sheet);
+  color: var(--blue);
+  white-space: nowrap;
+}
+
+.site-nav a:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
+}
+
+html[lang="zh-CN"] body {
+  font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", Arial, sans-serif;
+  line-height: 1.8;
+}
+
+html[lang="zh-CN"] .research-intro h1 {
+  line-height: 1.4;
+}
+
 .cv-page,
 .research-page {
   width: min(1520px, calc(100% - 64px));
